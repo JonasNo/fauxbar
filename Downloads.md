@@ -1,0 +1,3 @@
+### [Download Fauxbar from the Chrome Web Store](https://chrome.google.com/webstore/detail/hibkhcnpkakjniplpfblaoikiggkopka) ###
+
+[![](http://www.fauxbar.org/fauxbar48x.png)](https://chrome.google.com/webstore/detail/hibkhcnpkakjniplpfblaoikiggkopka) [![](http://code.google.com/chrome/webstore/images/branding/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/hibkhcnpkakjniplpfblaoikiggkopka)
